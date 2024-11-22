@@ -54,12 +54,3 @@ Please check [AWESOME-PETS.md](./docs/awesome-pets/awesome-pets.md)
 
 ## Contributing
 
-Please check [CONTRIBUTING.md](./CONTRIBUTING.md)
-
-## Benchmarks
-
-Please check [OVERALL_BENCHMARK.md](./docs/developer/benchmark/overall_benchmark.md)
-
-## Disclaimer
-
-Non-release versions of SecretFlow are prohibited from using in any production environment due to possible bugs, glitches, lack of functionality, security issues or other problems.
